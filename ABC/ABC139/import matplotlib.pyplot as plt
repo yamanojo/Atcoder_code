@@ -1,0 +1,7 @@
+import matplotlib.pyplot as plt
+import glob # ファイル名の探索
+import time # 計算時間の測定
+now = time.time
+import pickle # データの保存、読み込み 
+import numpy as np
+from scipy import signal
